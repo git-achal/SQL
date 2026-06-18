@@ -24,7 +24,7 @@ The goal is to improve SQL skills for Backend Developer interviews by practicing
 ## 📂 Project Structure
 
 ### Employe Management System
-
+DAY 1
 #### Tables Created
 - Employee
 - Department
