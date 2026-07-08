@@ -36,5 +36,6 @@ DAY 1
 - INSERT INTO
 
 #### Files
--createinsertdata.sql
--selectclause.sql
+1)createinsertdata.sql
+
+2)selectclause.sql
