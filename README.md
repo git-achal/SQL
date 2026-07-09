@@ -39,3 +39,5 @@ DAY 1
 1)createinsertdata.sql
 
 2)selectclause.sql
+
+3)whereclause.sql
